@@ -1,0 +1,229 @@
+{
+    "MoveLimit": 10,
+    "TargetDisplayMode": 2,
+    "Targets": [
+        {
+            "ConceptKey": "ANIMAL WITH ACCESSORY",
+            "EmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey",
+                "Emoji_emojis.com generate-an-animal-with-pink-dickey",
+                "Emoji_eagle_headband",
+                "Emoji_tiger_headband"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "GIRLS",
+            "EmojiIds": [
+                "Emoji_litlle_girl_vampire",
+                "Emoji_littlegirl_redhead",
+                "Emoji_cute_bortie_littlegirl"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "BOYS",
+            "EmojiIds": [
+                "Emoji_little_boy_vampire",
+                "Emoji_brown-hair-boy",
+                "Emoji_little_boy_glasses"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "ROBOT WITH BOWTIE",
+            "EmojiIds": [
+                "Emoji_black_robot_pink_bowtie",
+                "Emoji_robot_pink_bowtie"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 0,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_robot_pink_bowtie"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_emojis.com generate-an-animal-with-pink-dickey"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_black_robot_pink_bowtie"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_tiger_headband"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_eagle_headband"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_little_boy_vampire"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_little_boy_glasses"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_brown-hair-boy"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_litlle_girl_vampire"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_littlegirl_redhead"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_cute_bortie_littlegirl"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "RABBIT",
+            "EmojiIds": [
+                "Emoji_white_magician_rabbit",
+                "Emoji_white_rabbit",
+                "Emoji_rabbit_bowtie",
+                "Emoji_cute_rabbit"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "GREEN ",
+            "EmojiIds": [
+                "Emoji_green_baby_dino_smile",
+                "Emoji_green_apple",
+                "Emoji_green_heart_smile"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "CLOUD",
+            "EmojiIds": [
+                "Emoji_pink_cloud_smile",
+                "Emoji_sad_cloud",
+                "Emoji_white_cloud_smile_rainbow"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "UMBRELLA",
+            "EmojiIds": [
+                "Emoji_colorful_umbrella",
+                "Emoji_green_umbrella"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "RABBIT",
+                "UMBRELLA"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "GREEN "
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "CLOUD"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_colorful_umbrella"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_green_umbrella"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_cute_rabbit"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_rabbit_bowtie"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_white_rabbit"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_white_magician_rabbit"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pink_cloud_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_sad_cloud"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_white_cloud_smile_rainbow"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_green_baby_dino_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_green_apple"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_green_heart_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

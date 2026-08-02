@@ -1,0 +1,138 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "PINK BOWTIE",
+            "EmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey",
+                "Emoji_emojis.com generate-an-animal-with-pink-dickey",
+                "Emoji_giraffe_pinkbowtie",
+                "Emoji_lion_cute_pinkbowtie"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "GREEN HAIR",
+            "EmojiIds": [
+                "Emoji_-bun-haired-girl-with-earrings-green-hair-guy",
+                "Emoji_boy-green-white-skin,-green-hair",
+                "Emoji_boy-with-green-curly-hair-with-"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "YELLOW",
+            "EmojiIds": [
+                "Emoji_yellow-airplane",
+                "Emoji_yellow-flower"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_emojis.com generate-an-animal-with-pink-dickey"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_-bun-haired-girl-with-earrings-green-hair-guy"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_boy-green-white-skin,-green-hair"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_boy-with-green-curly-hair-with-"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_yellow-airplane"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_yellow-flower"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_giraffe_pinkbowtie"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_lion_cute_pinkbowtie"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

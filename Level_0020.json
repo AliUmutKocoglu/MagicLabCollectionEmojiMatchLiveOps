@@ -1,0 +1,382 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "BABY",
+            "EmojiIds": [
+                "Emoji_baby_blonde",
+                "Emoji_baby_boy_antler",
+                "Emoji_baby_brown",
+                "Emoji_baby_pacifier"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "CAMPING",
+            "EmojiIds": [
+                "Emoji_campfire_camping",
+                "Emoji_lantern_camping",
+                "Emoji_man_hat_camping",
+                "Emoji_tent_orange_camping"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "SPINS",
+            "EmojiIds": [
+                "Emoji_fan_blue_yellow_spins",
+                "Emoji_washing_machine_technology_spins",
+                "Emoji_spinningtop_spins",
+                "Emoji_windmill_spins"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "FOLDS",
+            "EmojiIds": [
+                "Emoji_cellphone_folds_technology",
+                "Emoji_folding_room_folds",
+                "Emoji_hand_fan_folds_turquaze",
+                "Emoji_purple_umbrella_folds"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PAIRS",
+            "EmojiIds": [
+                "Emoji_earring_golden_pair",
+                "Emoji_purple_pair_gloves",
+                "Emoji_socks_pair",
+                "Emoji_stick_red_pair"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "LEAVES A MARK",
+            "EmojiIds": [
+                "Emoji_paint_roller_mark",
+                "Emoji_red_felt_pen_mark",
+                "Emoji_red_lipstick_mark_makeup",
+                "Emoji_stamp_mark"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "CAMPING",
+                "FOLDS"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "SPINS",
+                "LEAVES A MARK"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "BABY",
+                "PAIRS"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 0,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_washing_machine_technology_spins"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 0,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_windmill_spins"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_tent_orange_camping"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 0,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_man_hat_camping"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_spinningtop_spins"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_stick_red_pair"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_baby_blonde"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_cellphone_folds_technology"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_purple_pair_gloves",
+                "Emoji_stamp_mark",
+                "Emoji_folding_room_folds",
+                "Emoji_baby_brown",
+                "Emoji_lantern_camping"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_earring_golden_pair",
+                "Emoji_red_lipstick_mark_makeup",
+                "Emoji_purple_umbrella_folds",
+                "Emoji_baby_pacifier",
+                "Emoji_fan_blue_yellow_spins"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_socks_pair",
+                "Emoji_paint_roller_mark",
+                "Emoji_hand_fan_folds_turquaze",
+                "Emoji_baby_boy_antler"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_red_felt_pen_mark",
+                "Emoji_campfire_camping"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        }
+    ]
+}

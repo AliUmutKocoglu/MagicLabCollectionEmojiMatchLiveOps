@@ -1,0 +1,138 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "HAT",
+            "EmojiIds": [
+                "Emoji_blond-woman-with-hat,-half-body",
+                "Emoji_a-kid-with-green-hair-and-a-hat",
+                "Emoji_blonde-woman-wearing-hat-with-cherries,-blue-eyes-and-glasses-",
+                "Emoji_man-wearing-hat"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HEADPHONE",
+            "EmojiIds": [
+                "Emoji_pink-hair-girl-with-headphones",
+                "Emoji_blue-hair-children-headphoner",
+                "Emoji_kid_headphone_blonde"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "VEHICLE",
+            "EmojiIds": [
+                "Emoji_cute-pink-bakery-delivery-vehicle-cookies",
+                "Emoji_light-purple-vehicle-beetle"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blond-woman-with-hat,-half-body"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_a-kid-with-green-hair-and-a-hat"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_blonde-woman-wearing-hat-with-cherries,-blue-eyes-and-glasses-"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_man-wearing-hat"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_light-purple-vehicle-beetle"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pink-hair-girl-with-headphones"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-children-headphoner"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_kid_headphone_blonde"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_cute-pink-bakery-delivery-vehicle-cookies"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

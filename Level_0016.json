@@ -1,0 +1,394 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "BLUE",
+            "EmojiIds": [
+                "Emoji_fruit_banana_blue",
+                "Emoji_blue_plane",
+                "Emoji_blue-hair-girl",
+                "Emoji_blue-hair-girl 1"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PINK ",
+            "EmojiIds": [
+                "Emoji_baby_girl_pink_hair",
+                "Emoji_pink_dots_color_backpack",
+                "Emoji_pink_cloud_smile",
+                "Emoji_pink-hair-boy"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HEROES",
+            "EmojiIds": [
+                "Emoji_blue_hair_hero_mask",
+                "Emoji_green_mask_hero",
+                "Emoji_purple_hero_mask",
+                "Emoji_yellow_mask_hero"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PIRATES",
+            "EmojiIds": [
+                "Emoji_pirate_angry_man",
+                "Emoji_pirate_man",
+                "Emoji_pirate_oldman",
+                "Emoji_pirate_woman"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "OCTOPUS",
+            "EmojiIds": [
+                "Emoji_octopus_green",
+                "Emoji_octopus_orange",
+                "Emoji_octopus_purple",
+                "Emoji_octopus_yellow"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "SPIKY",
+            "EmojiIds": [
+                "Emoji_green_spiky_cactus",
+                "Emoji_pineapple_spiky",
+                "Emoji_spiky_animal_hedhehog",
+                "Emoji_spiky_purple"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "SPIKY",
+                "HEROES"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "PIRATES",
+                "BLUE"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "OCTOPUS",
+                "PINK "
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blue_hair_hero_mask",
+                "Emoji_spiky_purple"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_green_mask_hero"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_purple_hero_mask"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_yellow_mask_hero",
+                "Emoji_octopus_green"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_octopus_orange"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_octopus_purple"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 5,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_octopus_yellow",
+                "Emoji_pirate_angry_man"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 5,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pirate_man"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 5,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pirate_oldman"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pirate_woman",
+                "Emoji_green_spiky_cactus"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_pineapple_spiky"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_spiky_animal_hedhehog"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_baby_girl_pink_hair"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pink_dots_color_backpack"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_pink_cloud_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_pink-hair-boy",
+                "Emoji_blue-hair-girl"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_blue_plane"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_fruit_banana_blue"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-girl 1"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

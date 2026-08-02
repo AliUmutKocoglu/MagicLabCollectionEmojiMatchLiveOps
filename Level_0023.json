@@ -1,0 +1,298 @@
+{
+    "MoveLimit": 7,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "MARKS",
+            "EmojiIds": [
+                "Emoji_paint_brush_mark",
+                "Emoji_lipstick_leavesamark",
+                "Emoji_muddy_shoes_mark",
+                "Emoji_pencil_mark"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "NEEDS A KEY",
+            "EmojiIds": [
+                "Emoji_car_needsakey",
+                "Emoji_padlock_needsakey",
+                "Emoji_treasure_chest_needsakey"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "TEETH",
+            "EmojiIds": [
+                "Emoji_comb_teeth_purple",
+                "Emoji_saw_teeth_sharp",
+                "Emoji_shark_teeth",
+                "Emoji_zipper_teeth"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "MEASURES",
+            "EmojiIds": [
+                "Emoji_measuringtap",
+                "Emoji_ruler_measure",
+                "Emoji_scale_measure",
+                "Emoji_thermometer_measure"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "TEETH",
+                "MEASURES"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "NEEDS A KEY"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "MARKS"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 0,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_paint_brush_mark"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 0,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_muddy_shoes_mark"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_zipper_teeth"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pencil_mark",
+                "Emoji_padlock_needsakey",
+                "Emoji_comb_teeth_purple"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_lipstick_leavesamark",
+                "Emoji_treasure_chest_needsakey",
+                "Emoji_ruler_measure"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_measuringtap"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_shark_teeth"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_car_needsakey"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_thermometer_measure"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_saw_teeth_sharp"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_scale_measure"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        }
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "MoveLimit": 20,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "NURSE ",
+            "EmojiIds": [
+                "Emoji_deer_animal_nurse",
+                "Emoji_nurse_hippo_animal",
+                "Emoji_penguin_nurse_animal_arctic",
+                "Emoji_squirrel_animal_nurse_pink"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "FIREFIGHTER",
+            "EmojiIds": [
+                "Emoji_animal_lion_firefighter2",
+                "Emoji_koala_animal_firefighter2",
+                "Emoji_racoon_animal_firefighter2",
+                "Emoji_rhino_firefighter_animal2"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "TAILOR",
+            "EmojiIds": [
+                "Emoji_sheep_tailor_animal2",
+                "Emoji_owl_tailor_animal2",
+                "Emoji_mouse_tailor_animal (2)",
+                "Emoji_beaver_tailor_animal2"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "POLICE",
+            "EmojiIds": [
+                "Emoji_bear_police_animal",
+                "Emoji_cat_animal_police",
+                "Emoji_dog_animal_police",
+                "Emoji_rabbit_police_animal"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "CHEF",
+            "EmojiIds": [
+                "Emoji_animal_crocodile_chef",
+                "Emoji_animal_elephant_chef",
+                "Emoji_penguin_animal_chef",
+                "Emoji_llama_animal_chef"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "POLICE",
+                "TAILOR"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "NURSE ",
+                "CHEF"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "FIREFIGHTER"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_deer_animal_nurse",
+                "Emoji_racoon_animal_firefighter2",
+                "Emoji_beaver_tailor_animal2"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_nurse_hippo_animal",
+                "Emoji_mouse_tailor_animal (2)"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_penguin_nurse_animal_arctic",
+                "Emoji_animal_lion_firefighter2"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_squirrel_animal_nurse_pink",
+                "Emoji_rabbit_police_animal"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_bear_police_animal"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_cat_animal_police"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_dog_animal_police"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_animal_crocodile_chef"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_penguin_animal_chef"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_llama_animal_chef"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_owl_tailor_animal2"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_sheep_tailor_animal2"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_koala_animal_firefighter2"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_rhino_firefighter_animal2",
+                "Emoji_animal_elephant_chef"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        }
+    ]
+}

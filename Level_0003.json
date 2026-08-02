@@ -1,0 +1,210 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "BLUE HAIR",
+            "EmojiIds": [
+                "Emoji_blue-hair-glasses-man-with-beard-and-striped-shirt",
+                "Emoji_blue-hair-girl 1",
+                "Emoji_blue-hair-boy-glasses"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PINK HAIR",
+            "EmojiIds": [
+                "Emoji_pink-hair-man",
+                "Emoji_woman-punk-hair-pink",
+                "Emoji_pink-hair-woman"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "CHILDREN",
+            "EmojiIds": [
+                "Emoji_brown-hair-boy",
+                "Emoji_sad-children-face",
+                "Emoji_cool-kid-thumbs-up-emoji-"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-glasses-man-with-beard-and-striped-shirt"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-girl 1"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-boy-glasses"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_brown-hair-boy"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_sad-children-face"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_cool-kid-thumbs-up-emoji-"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pink-hair-man"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_woman-punk-hair-pink"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_pink-hair-woman"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        }
+    ]
+}

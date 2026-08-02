@@ -1,0 +1,205 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 1,
+    "Targets": [
+        {
+            "ConceptKey": "FRUIT",
+            "EmojiIds": [
+                "Emoji_pomegranate",
+                "Emoji_orange",
+                "Emoji_cherry"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "COMPUTER ",
+            "EmojiIds": [
+                "Emoji_headphone_computer_part",
+                "Emoji_monitor_computer_part",
+                "Emoji_pink_keyboard_computerpart",
+                "Emoji_pink_mouse_computer_part"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PLANE",
+            "EmojiIds": [
+                "Emoji_blue_plane",
+                "Emoji_red_plane",
+                "Emoji_yellow-airplane"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PLANET",
+            "EmojiIds": [
+                "Emoji_black_planet",
+                "Emoji_planet_earth"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "FRUIT",
+                "PLANET"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "PLANE"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "COMPUTER "
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pomegranate",
+                "Emoji_headphone_computer_part"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_orange",
+                "Emoji_monitor_computer_part"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_cherry",
+                "Emoji_pink_keyboard_computerpart"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blue_plane",
+                "Emoji_black_planet"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_red_plane",
+                "Emoji_planet_earth"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_yellow-airplane"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_pink_mouse_computer_part"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "MoveLimit": 10,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "SUNGLASSES",
+            "EmojiIds": [
+                "Emoji_blue-hair-woman-with-sunglasses",
+                "Emoji_pink-hair-girl-with-sunglasses",
+                "Emoji_sunglasses_curly_boy",
+                "Emoji_sunglasses_redhair_woman"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "BLOND",
+            "EmojiIds": [
+                "Emoji_blonde_woman",
+                "Emoji_blonde-woman-wearing-hat-with-cherries,-blue-eyes-and-glasses-",
+                "Emoji_blonde_woman_bun",
+                "Emoji_blonde_elder_man"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_blue-hair-woman-with-sunglasses",
+                "Emoji_blonde_elder_man"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pink-hair-girl-with-sunglasses",
+                "Emoji_blonde-woman-wearing-hat-with-cherries,-blue-eyes-and-glasses-"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_sunglasses_curly_boy",
+                "Emoji_blonde_woman"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_sunglasses_redhair_woman",
+                "Emoji_blonde_woman_bun"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        }
+    ]
+}

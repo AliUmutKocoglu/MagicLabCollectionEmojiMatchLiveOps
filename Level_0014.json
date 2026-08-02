@@ -1,0 +1,352 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "GOLDEN",
+            "EmojiIds": [
+                "Emoji_gold_candlestick",
+                "Emoji_gold_coin",
+                "Emoji_gold_medal",
+                "Emoji_golden_bullion"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "APPLE",
+            "EmojiIds": [
+                "Emoji_red_apple_fruit",
+                "Emoji_fruit_green_apple",
+                "Emoji_fruit_apple_purple"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "KITCHEN",
+            "EmojiIds": [
+                "Emoji_kitchen_fridge_colorful",
+                "Emoji_pan_kitchen",
+                "Emoji_pot_kitchen"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HORSES",
+            "EmojiIds": [
+                "Emoji_horse_blue_hair",
+                "Emoji_horse_glasses",
+                "Emoji_horse_sunglasses",
+                "Emoji_horse_bowtie"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "VEGETABLES",
+            "EmojiIds": [
+                "Emoji_eggplant_pruple_vegetable",
+                "Emoji_green_vegetable",
+                "Emoji_cryin_carrot_glasses",
+                "Emoji_crying_potato_glasses"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "VEGETABLES",
+                "GOLDEN"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "HORSES",
+                "KITCHEN"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "APPLE"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_gold_candlestick",
+                "Emoji_fruit_apple_purple",
+                "Emoji_kitchen_fridge_colorful"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false,
+                true
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_gold_coin"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_gold_medal"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_golden_bullion"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_red_apple_fruit"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_fruit_green_apple"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_pan_kitchen",
+                "Emoji_horse_glasses"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_pot_kitchen",
+                "Emoji_green_vegetable"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_horse_blue_hair"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_horse_sunglasses",
+                "Emoji_cryin_carrot_glasses"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_horse_bowtie"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_eggplant_pruple_vegetable"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_crying_potato_glasses"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "MoveLimit": 10,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "CAP",
+            "EmojiIds": [
+                "Emoji_boy_cap_blue",
+                "Emoji_elder_man_cap_red",
+                "Emoji_grown_woman_cap_yellow"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HAT",
+            "EmojiIds": [
+                "Emoji_baby_boy_green_hat",
+                "Emoji_elder_woman_orange_hat",
+                "Emoji_grown_man_purple_hat"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HANDBAG",
+            "EmojiIds": [
+                "Emoji_black_handbag",
+                "Emoji_brown_handbag_chain",
+                "Emoji_gray_handbag",
+                "Emoji_orange_handbag_chain"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "BACKPACK",
+            "EmojiIds": [
+                "Emoji_green_backpack",
+                "Emoji_purple_backpack_color"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "ANTLER",
+            "EmojiIds": [
+                "Emoji_baby_boy_antler",
+                "Emoji_man_tie_antler",
+                "Emoji_woman_antler",
+                "Emoji_deer_antler"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "HORNS",
+            "EmojiIds": [
+                "Emoji_animal_horns",
+                "Emoji_cow_horns",
+                "Emoji_goat_beard_horns"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "HAT",
+                "CAP"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "HANDBAG",
+                "BACKPACK"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "HORNS",
+                "ANTLER"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_black_handbag"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_brown_handbag_chain",
+                "Emoji_grown_woman_cap_yellow",
+                "Emoji_elder_woman_orange_hat"
+            ],
+            "BombTimers": [
+                0,
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_gray_handbag",
+                "Emoji_purple_backpack_color"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 4,
+            "StackEmojiIds": [
+                "Emoji_orange_handbag_chain",
+                "Emoji_green_backpack"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_boy_cap_blue"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_elder_man_cap_red",
+                "Emoji_baby_boy_green_hat"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_grown_man_purple_hat"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_baby_boy_antler",
+                "Emoji_animal_horns"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_man_tie_antler",
+                "Emoji_cow_horns"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_woman_antler",
+                "Emoji_goat_beard_horns"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": []
+        },
+        {
+            "Row": 0,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_deer_antler"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": []
+        }
+    ]
+}

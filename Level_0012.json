@@ -1,0 +1,222 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "PINK",
+            "EmojiIds": [
+                "Emoji_pink_cloud_smile",
+                "Emoji_pink_mouse_computer_part",
+                "Emoji_pink_plane",
+                "Emoji_pink_keyboard_computerpart"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "GREEN",
+            "EmojiIds": [
+                "Emoji_green_apple",
+                "Emoji_green_cup",
+                "Emoji_green_baby_dino_smile",
+                "Emoji_green_heart_smile"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "BLUE",
+            "EmojiIds": [
+                "Emoji_blue-trench-coat",
+                "Emoji_blue_heart",
+                "Emoji_blue_plane"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_pink_cloud_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_pink_mouse_computer_part"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_pink_plane"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_pink_keyboard_computerpart",
+                "Emoji_green_apple"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_green_cup"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_green_baby_dino_smile"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 2,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_blue-trench-coat"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 3,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_blue_heart"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [
+                false
+            ],
+            "IsMystery": [
+                false
+            ]
+        },
+        {
+            "Row": 4,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_green_heart_smile",
+                "Emoji_blue_plane"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [
+                false,
+                false
+            ],
+            "IsMystery": [
+                false,
+                false
+            ]
+        }
+    ]
+}

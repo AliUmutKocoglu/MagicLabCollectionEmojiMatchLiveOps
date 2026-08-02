@@ -1,0 +1,310 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 3,
+    "Targets": [
+        {
+            "ConceptKey": "BAKERY",
+            "EmojiIds": [
+                "Emoji_baker_chef_man,",
+                "Emoji_bakery_oven_mitt",
+                "Emoji_cupcake_pink_blue_bakery",
+                "Emoji_rolling_pin_bakery"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "CINEMA",
+            "EmojiIds": [
+                "Emoji_cinema_clapperboard_black_white",
+                "Emoji_director_cinema_man_glasses",
+                "Emoji_film_camera_cinema",
+                "Emoji_film_reel_cinema"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "SCIENCE",
+            "EmojiIds": [
+                "Emoji_atom_model_science",
+                "Emoji_laboratory_experimental_flask_science",
+                "Emoji_laboratory_science",
+                "Emoji_man_science_laboratory"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "MAGIC",
+            "EmojiIds": [
+                "Emoji_magic_hat_purpleblack",
+                "Emoji_magic_stick",
+                "Emoji_magician_magic_human",
+                "Emoji_magician_rabbit_animal"
+            ],
+            "ShowNameAtStart": false,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "PAINTING",
+            "EmojiIds": [
+                "Emoji_human_painting_job_redhat",
+                "Emoji_paint_canvas",
+                "Emoji_paint_paintbrush",
+                "Emoji_paint_palette"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [
+        {
+            "ConceptKeys": [
+                "CINEMA",
+                "BAKERY"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "PAINTING",
+                "SCIENCE"
+            ]
+        },
+        {
+            "ConceptKeys": [
+                "MAGIC"
+            ]
+        }
+    ],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_magic_hat_purpleblack",
+                "Emoji_man_science_laboratory"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_magician_rabbit_animal",
+                "Emoji_laboratory_science"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_paint_palette",
+                "Emoji_atom_model_science"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_bakery_oven_mitt",
+                "Emoji_director_cinema_man_glasses"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_cupcake_pink_blue_bakery",
+                "Emoji_cinema_clapperboard_black_white"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_magician_magic_human"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_baker_chef_man,"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_magic_stick"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_rolling_pin_bakery"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_film_camera_cinema"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 3,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_paint_paintbrush"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 0,
+            "StackEmojiIds": [
+                "Emoji_laboratory_experimental_flask_science"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_human_painting_job_redhat"
+            ],
+            "BombTimers": [
+                0
+            ],
+            "BombTypes": [
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 4,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_paint_canvas",
+                "Emoji_film_reel_cinema"
+            ],
+            "BombTimers": [
+                0,
+                0
+            ],
+            "BombTypes": [
+                0,
+                0
+            ],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}

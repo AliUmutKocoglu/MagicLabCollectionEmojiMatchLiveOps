@@ -1,0 +1,83 @@
+{
+    "MoveLimit": 15,
+    "TargetDisplayMode": 0,
+    "Targets": [
+        {
+            "ConceptKey": "CAT",
+            "EmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey",
+                "Emoji_cat_glasses"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        },
+        {
+            "ConceptKey": "DOG",
+            "EmojiIds": [
+                "Emoji_dog-face",
+                "Emoji_dog_crown",
+                "Emoji_chef_dog2"
+            ],
+            "ShowNameAtStart": true,
+            "HideDotCount": false
+        }
+    ],
+    "TargetStacks": [],
+    "Cells": [
+        {
+            "Row": 1,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_dog-face"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_dog_crown"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 1,
+            "StackEmojiIds": [
+                "Emoji_emojis.com generate-a-cat-face-with-pink-dickey"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 2,
+            "Col": 2,
+            "StackEmojiIds": [
+                "Emoji_cat_glasses"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        },
+        {
+            "Row": 1,
+            "Col": 3,
+            "StackEmojiIds": [
+                "Emoji_chef_dog2"
+            ],
+            "BombTimers": [],
+            "BombTypes": [],
+            "IsFrozen": [],
+            "IsMystery": []
+        }
+    ]
+}
