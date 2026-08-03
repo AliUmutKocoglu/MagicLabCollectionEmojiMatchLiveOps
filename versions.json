@@ -2,31 +2,31 @@
     "LevelVersions": [
         {
             "LevelName": "Level_0001",
-            "Version": 3
+            "Version": 1
         },
         {
             "LevelName": "Level_0002",
-            "Version": 3
+            "Version": 1
         },
         {
             "LevelName": "Level_0003",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0004",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0005",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0006",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0007",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0008",
@@ -34,58 +34,50 @@
         },
         {
             "LevelName": "Level_0009",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0010",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0011",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0012",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0013",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0014",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0015",
-            "Version": 5
+            "Version": 1
         },
         {
             "LevelName": "Level_0016",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0017",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0018",
-            "Version": 2
+            "Version": 1
         },
         {
             "LevelName": "Level_0019",
-            "Version": 4
+            "Version": 1
         },
         {
             "LevelName": "Level_0020",
-            "Version": 6
-        },
-        {
-            "LevelName": "Level_0023",
-            "Version": 2
-        },
-        {
-            "LevelName": "Level_0027",
             "Version": 1
         },
         {
