@@ -1,5 +1,5 @@
 {
-    "Version": 1788092407,
+    "Version": 1788092469,
     "Economy": {
         "CoinsPerLevel": 40,
         "ReviveCost": 900,
@@ -8,7 +8,7 @@
         "ReviveMoveCountCoins": 5
     },
     "Ads": {
-        "EnableRewardedAds": false,
+        "EnableRewardedAds": true,
         "EnableInterstitialAds": true,
         "InterstitialLevelInterval": 3,
         "InterstitialMinLevel": 15
