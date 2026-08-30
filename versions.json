@@ -1,0 +1,156 @@
+{
+    "LevelVersions": [
+        {
+            "LevelName": "Level_0001",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0002",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0003",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0004",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0005",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0006",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0007",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0008",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0009",
+            "Version": 15
+        },
+        {
+            "LevelName": "Level_0010",
+            "Version": 3
+        },
+        {
+            "LevelName": "Level_0011",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0012",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0013",
+            "Version": 5
+        },
+        {
+            "LevelName": "Level_0014",
+            "Version": 6
+        },
+        {
+            "LevelName": "Level_0015",
+            "Version": 28
+        },
+        {
+            "LevelName": "Level_0016",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0017",
+            "Version": 8
+        },
+        {
+            "LevelName": "Level_0018",
+            "Version": 17
+        },
+        {
+            "LevelName": "Level_0019",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0020",
+            "Version": 7
+        },
+        {
+            "LevelName": "Level_0021",
+            "Version": 5
+        },
+        {
+            "LevelName": "Level_0022",
+            "Version": 3
+        },
+        {
+            "LevelName": "Level_0023",
+            "Version": 5
+        },
+        {
+            "LevelName": "Level_0024",
+            "Version": 6
+        },
+        {
+            "LevelName": "Level_0025",
+            "Version": 24
+        },
+        {
+            "LevelName": "Level_0026",
+            "Version": 4
+        },
+        {
+            "LevelName": "Level_0027",
+            "Version": 3
+        },
+        {
+            "LevelName": "Level_0028",
+            "Version": 1
+        },
+        {
+            "LevelName": "Level_0029",
+            "Version": 8
+        },
+        {
+            "LevelName": "Level_0030",
+            "Version": 5
+        },
+        {
+            "LevelName": "Level_0031",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0032",
+            "Version": 3
+        },
+        {
+            "LevelName": "Level_0033",
+            "Version": 7
+        },
+        {
+            "LevelName": "Level_0034",
+            "Version": 6
+        },
+        {
+            "LevelName": "Level_0035",
+            "Version": 2
+        },
+        {
+            "LevelName": "Level_0036",
+            "Version": 1
+        },
+        {
+            "LevelName": "Level_0037",
+            "Version": 18
+        },
+        {
+            "LevelName": "Level_0038",
+            "Version": 16
+        }
+    ]
+}
