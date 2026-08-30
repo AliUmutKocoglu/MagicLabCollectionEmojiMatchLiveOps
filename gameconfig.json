@@ -1,0 +1,23 @@
+{
+    "Version": 1788091674,
+    "Economy": {
+        "CoinsPerLevel": 40,
+        "ReviveCost": 900,
+        "ReviveCostIncrement": 1000,
+        "ReviveMoveCountAd": 2,
+        "ReviveMoveCountCoins": 5
+    },
+    "Ads": {
+        "EnableRewardedAds": true,
+        "EnableInterstitialAds": true,
+        "InterstitialLevelInterval": 3,
+        "InterstitialMinLevel": 15
+    },
+    "Mechanics": {
+        "EnableRadarBooster": false,
+        "EnableRevealBooster": false,
+        "EnableBombMechanic": false,
+        "EnableIceMechanic": false,
+        "EnableHiddenHexMechanic": false
+    }
+}
